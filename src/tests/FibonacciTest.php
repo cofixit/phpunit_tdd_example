@@ -1,6 +1,6 @@
 <?php
 
-require('Fibonacci.php');
+require('src/Fibonacci.php');
 
 class FibonacciTest extends PHPUnit_Framework_TestCase {
 
